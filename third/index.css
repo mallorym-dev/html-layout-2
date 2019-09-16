@@ -1,0 +1,48 @@
+.top {
+    height: 100px;
+    width: 100vw;
+    background-color: lightgray;
+}
+
+.square {
+    height: 70px;
+    width: 70px;
+    background-color: blue;
+    margin: 10px;
+}
+
+.second {
+    height: 250px; 
+    width: 100vw;
+    background-color: white;
+}
+
+.text {
+    text-align: center;
+    margin: 40px;
+}
+
+.third {
+    height: 100px; 
+    width: 100vw;
+    background-color: blue;
+}
+
+.fourth {
+    height: 100px; 
+    width: 100vw;
+    background-color: green;
+}
+
+.fifth {
+    height: 100px; 
+    width: 100vw;
+    background-color: olive;
+}
+
+.sixth {
+    height: 100px; 
+    width: 100vw;
+    background-color:yellow;
+}
+

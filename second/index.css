@@ -1,0 +1,60 @@
+.top {
+    height: 200px;
+    width: 100vw;
+    background-color:white;
+    border: 3px solid black;
+}
+
+.rectangle {
+    height: 100px;
+    width: 40px;
+    background-color: purple;
+    margin: 10px;
+    display: inline-block;
+}
+
+.square {
+    height: 150px;
+    width: 250px;
+    background-color: green;
+    display: inline-block;
+    margin: 30px;
+    margin-left: 40px;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+    background-color: lightskyblue;
+    display: inline-block;
+    margin: 50px;
+}
+
+.midpart {
+    height:250px;
+    width: 250vw;
+    border: 3px dotted black;
+    margin: 30px;
+}
+
+.pink {
+    height: 130px;
+    width: 1000px;
+    background-color: pink;
+    margin: 50px;
+}
+
+.bottom {
+    height: 130px;
+    width: 300px;
+    border: 2px solid blue;
+    margin: 50px;
+    margin-left: 500px;
+}
+.text {
+    margin: 50px;
+    margin-left: 100px;
+    color: blue;
+    font-size: 20px;
+}
